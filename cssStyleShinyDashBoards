@@ -1,0 +1,137 @@
+'
+                            .shiny-output-error {
+                                                color: #fff;
+                                                opacity: 0;
+                                                white-space: pre-wrap;
+                            }
+                            .skin-blue .main-header .logo {
+                                                background-color: #FFFFFF;
+                                                color: #274267;
+                            }
+                            .sidebar {
+                                                color: #274267;
+                            }
+                            .skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+                                                background-color: #FFFFFF;
+                            }
+                            .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+                                                color: #fff;
+                                                background: #274267;
+                                                border-left-color: #3c8dbc;
+                            }
+                            .btn-default {
+                                                background-color: #f4f4f4;
+                                                color: #274267;
+                                                border-color: #274267;
+                            }
+                            .form-control {
+                                                border-radius: 50px;
+                                                box-shadow: none;
+                                                border-color: #274267;
+                            }
+                            .progress, .progress .progress-bar, .progress>.progress-bar, .progress>.progress-bar .progress-bar {
+                                                border-radius: 50px;
+                            }
+                            .progress-bar {
+                                                float: left;
+                                                height: 100%;
+                                                font-size: 12px;
+                                                line-height: 20px;
+                                                color: #fff;
+                                                text-align: center;
+                                                background-color: #274267;
+                                                -webkit-transition: width .6s ease;                                                transition: width .6s ease;
+                            }
+                            .input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child>.btn, .input-group-btn:first-child>.btn-group>.btn, .input-group-btn:first-child>.dropdown-toggle, .input-group-btn:last-child>.btn-group:not(:last-child)>.btn, .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle) {
+                                                border-top-left-radius: 50px;
+                                                border-bottom-left-radius: 50px;
+                            }
+                            label {
+                                                display: inline-block;
+                                                max-width: 100%;
+                                                font-weight: 700;
+                                                margin-left: 15px;
+                            }
+                            .skin-blue .main-header .navbar {
+                                                background-color: #FFFFFF;
+                            }
+                            .skin-blue .main-header .navbar .sidebar-toggle:hover {
+                                                background-color: #274267;
+                            }
+                            .skin-blue .main-header .navbar .sidebar-toggle {
+                                                color: #274267;
+                            }
+                            .skin-blue .sidebar a {
+                                                color: #274267;
+                            }
+                            .skin-blue .main-header .logo:hover {
+                                                background-color: #FFFFFF;
+                            }
+                            .dataTables_wrapper .dataTables_filter input {
+                                                margin-left: 0.5em;
+                                                border-radius: 10px;
+                            }
+                            .box.box-solid.box-success>.box-header {
+                                                color: #fff;
+                                                background: #274267;
+                            }
+                            .box.box-solid.box-success {
+                                                border: 1px solid #274267;
+                            }
+                            .skin-blue .sidebar-menu>li>.treeview-menu {
+                                                margin: 0 -1.5px;
+                                                background: #3c8dbc;
+                            }
+                            section.sidebar .shiny-input-container {
+                                                padding: 12px 15px 0px 12px;
+                                                white-space: normal;
+                                                background-color: #FFFFFF;
+                            }
+                            .skin-blue .user-panel>.info, .skin-blue .user-panel>.info>a {
+                                                color: #274267;
+                            }
+                            .skin-blue .main-header .navbar .nav>li>a {
+                                                color: #274267;
+                            }
+                            .skin-blue .main-header .navbar .nav>li>a:hover {
+                                               background-color: #274267;
+                                               color: #FFFFFF
+                            }
+                            .navbar-nav > .messages-menu > .dropdown-menu > li .menu > li > a > .glyphicon, .navbar-nav > .messages-menu > .dropdown-menu > li .menu > li > a > .fa, .navbar-nav > .messages-menu > .dropdown-menu > li .menu > li > a > .ion {
+                                                float: left;
+                                                font-size: 30px;
+                                                width: 50px;
+                                                text-align: center;
+                                                margin-right: 5px;
+                                                color: #274267;
+                            }
+                            .content-wrapper, .right-side {
+                                                min-height: 100%;
+                                                background-color: rgb(255, 255, 255);
+                                                z-index: 800;
+                            }
+                            .box {
+                                                position: relative;
+                                                border-radius: 3px;
+                                                background: #fff;
+                                                border-top: 3px solid #d2d6de;
+                                                margin-bottom: 20px;
+                                                width: 100%;
+                                                box-shadow: 0 5px 7px rgba(0, 0, 0, 0.7);
+                            }
+                            .skin-blue .main-sidebar, .skin-blue .wrapper {
+                                                background-color: #FFFFFF;
+                                                box-shadow: -1px 5px 13px rgba(0, 0, 0, 0.7);
+                            }
+                            .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+                                                color: #fff;
+                                                background: #274267;
+                                                border-left-color: #3c8dbc;
+                                                box-shadow: 0 3px 7px rgba(0, 0, 0, 0.7);
+                            }
+                            .skin-blue .main-header .navbar {
+                                                background-color: #FFFFFF;
+                                                box-shadow: 7px 1px 7px 0px rgba(0, 0, 0, 0.7);
+                            }
+                  
+                            '
